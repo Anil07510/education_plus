@@ -1,0 +1,113 @@
+/* GOOGLE FONT */
+@import url('https://fonts.googleapis.com/css2?family=Cormorant+SC:wght@600&family=Dancing+Script:wght@600&family=Edu+TAS+Beginner&family=Edu+VIC+WA+NT+Beginner:wght@500&family=Lobster&family=Nunito:ital,wght@1,300&family=Oswald:wght@500&family=Rubik&family=Sniglet&display=swap');
+
+/* navbar */
+
+.container-fluid .collapse ul li  a{
+    color: rgb(123, 188, 99);
+}
+
+/* header section */
+header section{
+    overflow-x: hidden ;
+}
+.btn a{
+    text-decoration: none;
+}
+
+:root{
+    --Snigle-font:"Snigle",cursive;
+    --Rubik:"Rubik",cursive;
+    --Lobster:"Lobster",cursive;
+    --Light-black: rgb(36, 34, 34);
+}
+#LOGO{
+    font-family: 'Edu TAS Beginner', cursive
+    
+}
+#MAIN_LOGO{
+    font-family:var(--Rubik)
+}
+#LOGO_PARA{
+    font-family: 'Dancing Script', cursive;
+    font-size: larger;
+    color: rgb(84, 99, 193);
+}
+.main_logo{
+    color: rgb(25, 172, 123);
+}
+.main_logo:hover{
+    color: rgb(182, 69, 227);
+}
+.btn{
+    font-family:var(--Snigle) ;
+   
+}
+.btn a{
+    color: white;
+}
+.btn a:hover{
+    color: rgb(184, 6, 6);
+    font-size: large;
+}
+.btn:hover{
+    color:rgb(127, 127, 217);
+    background-color: rgb(242, 157, 0);
+    
+}
+footer .py-1 a{
+    text-decoration: none;
+    color: white;
+}
+footer .py-1 a:hover{
+    text-decoration: none;
+    color: rgb(237, 171, 85);
+    font-size: larger;
+    font-family:var(--Snigle) ; 
+}
+.section-2 h3 {
+    font-family: 'Edu TAS Beginner', cursive;
+}
+.section-2 h5 {
+    font-family: 'Edu TAS Beginner', cursive;
+}
+.section-2 p{
+    font-family: var(--Rubik);
+}
+.section-3 h1{
+    font-family: var(--Rubik);
+}
+.section-3 h3{
+    font-family: var(--Rubik);
+}
+.section-3 p{
+    font-family: var(--Rubik);
+}
+.h5p p{
+
+font-size: 30px;
+font-family: 'Edu TAS Beginner', cursive;
+}
+.h5p p:hover{
+
+font-size:large;
+font-family: 'Edu TAS Beginner', cursive;
+}
+.h5p h5{
+font-size: 25px;
+font-size: larger;
+font-family: 'Edu TAS Beginner', cursive;
+}
+.h5p h5:hover{
+
+font-size: large;
+font-family: 'Edu TAS Beginner', cursive;
+}
+section .card:hover{
+width: 20rem;
+}
+/* MARQUEE SECTION */
+.related_section{
+    background-color: rgb(100, 178, 204);
+}
+/* PORTFOLIO CSS */
